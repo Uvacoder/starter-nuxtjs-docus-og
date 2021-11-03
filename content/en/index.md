@@ -8,6 +8,7 @@ features:
   - Use Vue components
   - Designed with TailwindCSS
   - Light and Dark mode
+  - Deploy
 ---
 
 Welcome to my awesome documentation using [Docus](https://docus.dev).
