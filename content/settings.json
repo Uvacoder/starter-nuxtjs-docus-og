@@ -1,6 +1,6 @@
 {
-  "title": "Docus Starter",
-  "url": "https://starter.docus.dev",
-  "github": "nuxt/docus-starter",
+  "title": "ABC Docus Starter",
+  "url": "https://abc-docus-starter.vercel.app",
+  "github": "uvacoder/abc-docus-starter",
   "twitter": "nuxt_js"
 }
